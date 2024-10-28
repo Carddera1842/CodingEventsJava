@@ -3,12 +3,12 @@ package org.launchcode.codingevents.models;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
-
 import java.util.Objects;
 
 /**
  * Created by Chris Bay
  */
+
 public class Event {
 
     private int id;
